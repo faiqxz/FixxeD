@@ -194,7 +194,7 @@
 /* Hero Section */
 .hero {
   background: #000000;
-  background-image: url(/IMAGES/garage.jpg);
+  background-image: url(./IMAGES/garage.jpg);
   background-size: cover;
   padding: 200px 0;
 }
